@@ -1,4 +1,11 @@
 # Correlation and regression for data analysis
+EXP-3
+
+26-10-2024
+
+NAME:T.K.SHRIVIMAL
+
+REG NO:24003314
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
@@ -23,7 +30,26 @@ If y represents the dependent variable and x the independent variable, this rela
 
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
+# Output 
+
+60 34 40 50 45 40 22 43 42 64
+
+75 32 33 40 45 33 12 30 34 51
+
+The coorelation coefficient is 0.562
+
+The regression line Y on X ::: y = 38.500 1.186 (x-44.000)
+
+<matplotlib.legend.Legend at_ 0x7f1b9c6fe140>
+
+![8001a06d-b73a-47a8-9ffe-a0d3b8b63583](https://github.com/user-attachments/assets/896ca896-9132-498a-8d7a-262027df9d13)
+
+
 
 # Result
 
-# Output 
+The Correction and regression for data analysis of objects from feeder using probability
+
+distribution are calculated.
+
+
