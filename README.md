@@ -1,11 +1,4 @@
 # Correlation and regression for data analysis
-EXP-3
-
-26-10-2024
-
-NAME:T.K.SHRIVIMAL
-
-REG NO:24003314
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
